@@ -1,0 +1,9 @@
+{
+    "name": "MyoConductor",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "js": ["jquery-1.11.1.min.js","contentscript.js"],
+        "matches": ["https://www.youtube.com/*"]
+    }]
+}
