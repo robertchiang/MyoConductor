@@ -17,7 +17,7 @@ MyoConductor is a Chrome extension that allows a user to use the Myo gesture arm
 - Myo SDK through the browser with [currently beta](https://developer.thalmic.com/forums/topic/534/) WebSockets and JavaScript bindings
 
 ##Myo Gesture/Movement Mapping
-- **Wave-In:** Calibrates orientation, resets speed and prepares controller for initial use
+- **Wave-In:** Calibrates orientation, resets tempo and begins tempo calibration period
 - **Wave-Out:** Resets speed to default
 - **Fist:** Holds/pauses media
 - **Rest:** Resumes playing media
